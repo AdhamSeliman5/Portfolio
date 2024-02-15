@@ -1,0 +1,10 @@
+From he analyzing and visualization we can see the follwoing:
+
+ 1 - The marketing spend at Arkansas and Rhode island are very low compare with other states
+	while there profit are much bigger than other states (2720% return on investment)
+
+	So I recommend to spend more money on marketing to increase our profit.
+
+2 - California spends a lot while the profit is less than many other states that spend less than CA
+
+	So I recommend to decrease spending limit in CA and increase the spend in many other states.
